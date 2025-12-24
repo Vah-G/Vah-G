@@ -1,16 +1,27 @@
-## Hi there 👋
+## About me
+I am studying cybersecurity and using GitHub to collect and organize
+the practical things I work on while learning.
+Most of my focus right now is on understanding how security works at a basic level,
+especially in networking and web connections.
 
-<!--
-**Vah-G/Vah-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm learning
+- Network fundamentals and access control (ACL)
+- How HTTPS, SSL and TLS work in practice
+- Basic Linux usage
+- First steps in log analysis
 
-Here are some ideas to get you started:
+## Projects
+- **HTTPS Certificate Checker**  
+  This project was made to better understand HTTPS connections and
+  how SSL/TLS certificates are used. It checks basic certificate
+  parameters and helps see common configuration issues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Network Security Labs**  
+  A set of small networking labs related to access control and basic
+  security concepts. I add new labs as I continue learning.
+
+## Goals
+- Build a strong base in cybersecurity fundamentals
+- Get more practical experience, not only theoretical knowledge
+- Explore different areas of information security before choosing a specialization
+
