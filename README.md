@@ -20,6 +20,13 @@ especially in networking and web connections.
   A set of small networking labs related to access control and basic
   security concepts. I add new labs as I continue learning.
 
+- **Yerevan Transport Security Analysis**
+  Independent research project:
+  - Analyzed security posture of city-wide payment system (Telcell, validators, mobile app)
+  - Identified critical misconfiguration: validator running in debug mode, exposing system settings
+  - Investigated corporate ownership (offshore structure, former prime minister as shareholder) and documented risks
+  - Presented findings in a formal slide deck
+
 ## Goals
 - Build a strong base in cybersecurity fundamentals
 - Get more practical experience, not only theoretical knowledge
