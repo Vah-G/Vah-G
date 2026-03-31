@@ -17,12 +17,8 @@ especially in networking and web connections.
   how SSL/TLS certificates are used. It checks basic certificate
   parameters and helps see common configuration issues.
 
-
-
-### Network Security Labs
-  A set of small networking labs related to access control and basic
-  security concepts. I add new labs as I continue learning.
-
+### MITM HTTPS Analysis Lab
+Simulated a MITM attack and analyzed HTTPS/TLS certificate and trust chain changes during interception.
 
 
 ### Yerevan Transport Security Analysis
@@ -32,6 +28,10 @@ especially in networking and web connections.
   - Identified critical misconfiguration: validator running in debug mode, exposing system settings
   - Investigated corporate ownership (offshore structure, former prime minister as shareholder) and documented risks
   - Presented findings in a formal slide deck
+
+### Network Security Labs
+  A set of small networking labs related to access control and basic
+  security concepts. I add new labs as I continue learning.
 
 ## Goals
 - Build a strong base in cybersecurity fundamentals
