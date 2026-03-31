@@ -21,7 +21,7 @@ especially in networking and web connections.
   security concepts. I add new labs as I continue learning.
 
 - **Yerevan Transport Security Analysis**
-  Independent research project:
+   Independent research project:
   - Analyzed security posture of city-wide payment system (Telcell, validators, mobile app)
   - Identified critical misconfiguration: validator running in debug mode, exposing system settings
   - Investigated corporate ownership (offshore structure, former prime minister as shareholder) and documented risks
