@@ -17,13 +17,13 @@ especially in networking and web connections.
   how SSL/TLS certificates are used. It checks basic certificate
   parameters and helps see common configuration issues.
 
---
+-
 
 ### Network Security Labs
   A set of small networking labs related to access control and basic
   security concepts. I add new labs as I continue learning.
 
---
+-
 
 ### Yerevan Transport Security Analysis
   *Independent research project:*
