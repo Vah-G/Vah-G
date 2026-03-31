@@ -22,7 +22,9 @@ especially in networking and web connections.
 ### Network Security Labs
   A set of small networking labs related to access control and basic
   security concepts. I add new labs as I continue learning.
+
 ---
+
 ### Yerevan Transport Security Analysis
   *Independent research project:*
   
